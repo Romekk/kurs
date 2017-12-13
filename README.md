@@ -1,2 +1,3 @@
 # kurs
-Repsitory created on the Udemy's course .
+Repsitory created on the Udemy's course.
+I 
